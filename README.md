@@ -33,7 +33,9 @@
   <img alt="SuwTaisha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SuwTaisha?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false" />
 </a>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=minnguyt19&theme=tokyonight&hide_border=true" />
+</p>
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuwTaisha&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS" alt="Profile Views" />
