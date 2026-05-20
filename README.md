@@ -29,17 +29,26 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false">
-  <img alt="SuwTaisha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SuwTaisha?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false" />
-</a>
-
-<br>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SuwTaisha&theme=gruvbox" alt="GitHub Streak" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false">
+        <img alt="SuwTaisha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SuwTaisha?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=SuwTaisha&theme=gruvbox" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuwTaisha&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 </div>
 
