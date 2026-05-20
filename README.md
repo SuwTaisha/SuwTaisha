@@ -32,6 +32,9 @@
 <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false">
   <img alt="SuwTaisha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SuwTaisha?cardType=github&theme=gruvbox&fontFamily=Actor&preferLogin=false" />
 </a>
+
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SuwTaisha1&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
