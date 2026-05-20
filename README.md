@@ -36,10 +36,7 @@
 ---
 <!-- Streak -->
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuwTaisha&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 <p align="center">
